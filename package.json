@@ -10,6 +10,10 @@
   },
   "dependencies": {
     "@coinbase/wallet-sdk": "^3.5.3",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/material": "^5.10.6",
+    "@mui/styles": "^5.10.6",
     "@walletconnect/web3-provider": "^1.8.0",
     "ethers": "^5.7.1",
     "next": "12.3.1",
